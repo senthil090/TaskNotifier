@@ -1,0 +1,12 @@
+{
+  "name": "Task Notifier",
+  "version": "0.0.1",
+  "main":"index.js",
+  "author":"SENTHILKUMAR S",
+  "description": "Notify  the  Task via Desktop Notification Service ",
+  "dependencies": {
+    "express": "latest",
+    "node-notifier": "latest"
+  }
+
+}
